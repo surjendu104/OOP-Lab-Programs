@@ -13,5 +13,6 @@ public class Main {
             ob.display1();
         }else
             System.out.println("Invalid Employee number");
+        sc.close();
     }
 }
