@@ -2,7 +2,7 @@ package day_6;
 
 import java.util.Scanner;
 
-public class String_substring_checking_08 {
+public class StringSubstringChecking_08 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter the string and substring: ");
