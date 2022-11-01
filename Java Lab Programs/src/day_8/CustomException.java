@@ -49,7 +49,8 @@ class InvalidTestScore extends Exception {
 	}
 }
 /*
- * out-1 Enter the number of testscores : 5 
+ * out-1
+ * Enter the number of testscores : 5 
  * 8 5454 71 2 5 
  * Average can't calcutated.Illegal Argument Exception occur 
  * -1.0
