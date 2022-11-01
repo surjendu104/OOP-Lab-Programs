@@ -21,6 +21,7 @@ public class PatternPrinting_15 {
 		for(int i=n-1;i>=0;i--	) {
 			System.out.println(s.substring(0,i));
 		}
+		sc.close();
 	}
 }
 /*
