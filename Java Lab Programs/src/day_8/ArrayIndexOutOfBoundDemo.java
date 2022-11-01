@@ -23,6 +23,8 @@ public class ArrayIndexOutOfBoundDemo {
 	}
 }
 /*
- * Enter the number of element : 5 5 9 7 1 6 Enter the index you want to access
- * : 6 Array index out of bound occurred!! Enter valid index
+ * Enter the number of element : 5 
+ * 5 9 7 1 6 
+ * Enter the index you want to access: 6
+ * Array index out of bound occurred!! Enter valid index
  */

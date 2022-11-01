@@ -43,12 +43,20 @@ class TestScore {
 	}
 }
 /*
+ * out-1
+ * Enter the number of testscores : 5 
+ * 65 1000 847 3 6 
+ * Average can't calcutated.Illegal Argument Exception occur 
+ * -1.0
  * 
- * Enter the number of testscores : 5 65 1000 847 3 6 Average can't
- * calcutated.Illegal Argument Exception occur -1.0
+ * out-2
+ * Enter the number of testscores : 5 
+ * -1 0 8 2 3 
+ * Average can't calcutated.Illegal Argument Exception occur 
+ * -1.0
  * 
- * Enter the number of testscores : 5 -1 0 8 2 3 Average can't
- * calcutated.Illegal Argument Exception occur -1.0 Enter the number of
- * testscores : 5 8 4 8 2 9 6.0
- * 
+ * out-3
+ * Enter the number of testscores : 5 
+ * 8 4 8 2 9 
+ * 6.0
  */
